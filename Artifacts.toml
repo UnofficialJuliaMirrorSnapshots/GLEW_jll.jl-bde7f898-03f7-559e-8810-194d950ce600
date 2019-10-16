@@ -1,0 +1,113 @@
+[[GLEW]]
+arch = "x86_64"
+git-tree-sha1 = "fcda77331106bd6396970ba8ec5105057ea92fc9"
+os = "macos"
+
+    [[GLEW.download]]
+    sha256 = "0bdc723c9ef1fd9a72fe7485b9d838bd1240ad93944a9622dabf2db1272d298f"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.x86_64-apple-darwin14.tar.gz"
+[[GLEW]]
+arch = "i686"
+git-tree-sha1 = "469418dbd6b068b2403da2523d1223e64eab60d9"
+libc = "glibc"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "7a2317cd7f3aa92677dd1d611a4d977c34b8641bc96bf3fbd0d3845e19a44f25"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.i686-linux-gnu.tar.gz"
+[[GLEW]]
+arch = "x86_64"
+git-tree-sha1 = "6551512ccb0479a85dce4e6ba26d8d202dca963b"
+os = "freebsd"
+
+    [[GLEW.download]]
+    sha256 = "d8f173f5fe6e612e30b2ff0f385f980fe04289c45b14e92e9202304c1e3a5e2e"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[GLEW]]
+arch = "powerpc64le"
+git-tree-sha1 = "a03e6f81292a9e0bc02cf7eeed3af9a11c8cb8e9"
+libc = "glibc"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "22824422b14cc9f61feaa89b49e653444598b8fde1d9b703038f594db75eeb59"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.powerpc64le-linux-gnu.tar.gz"
+[[GLEW]]
+arch = "x86_64"
+git-tree-sha1 = "a58df46f879898bedd5ab08542ffc50286a9e8d4"
+libc = "musl"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "039a649dc9484d41aec37b1c760ede84cafdefaa8cb9e26ec6ee3b079b9ac427"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.x86_64-linux-musl.tar.gz"
+[[GLEW]]
+arch = "x86_64"
+git-tree-sha1 = "54f330845dc110c31b17db22d9c908d34a64bd5d"
+libc = "glibc"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "0d2ccfa80b94839e8f7aa5e36bd1ad7aa72774574342575b323e201ea96ae1ef"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.x86_64-linux-gnu.tar.gz"
+[[GLEW]]
+arch = "x86_64"
+git-tree-sha1 = "a13c5c1087efa99ae0c2245939d7e45e0a2c6f08"
+os = "windows"
+
+    [[GLEW.download]]
+    sha256 = "377b54500eb30bf766ff554a65b4e7ca06b12670f69372ff77cca8f905f8f2e4"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.x86_64-w64-mingw32.tar.gz"
+[[GLEW]]
+arch = "aarch64"
+git-tree-sha1 = "9d717ca669fab052ff6cb2596aa12c7883c35eba"
+libc = "musl"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "2682d71fc68a34c5d0822345f3557f33f62ec28fb137b6fd0ac0d76a2f48f00e"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.aarch64-linux-musl.tar.gz"
+[[GLEW]]
+arch = "armv7l"
+git-tree-sha1 = "9a762c69af72862eb967ded81d7d3124b2e64e7b"
+libc = "glibc"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "7895f07869dc40a680d6f73dbd11539ef1b04ff81b2dc9f2bf01d660422164b9"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.arm-linux-gnueabihf.tar.gz"
+[[GLEW]]
+arch = "i686"
+git-tree-sha1 = "d49c207e126fe7b5cdb6a752653448ee0eb29be1"
+libc = "musl"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "51110fd9f7659b080cba54c18e9e0a0f616dd3d67c70f64ca9e1a42a90aa2bba"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.i686-linux-musl.tar.gz"
+[[GLEW]]
+arch = "armv7l"
+git-tree-sha1 = "afc189dc6f37970f61f5e3f95442760278bf5d8e"
+libc = "musl"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "08a11145ccf74e88f5f726c26171da3fd0cf8db6bc4e9e5007f7999c22d9f761"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.arm-linux-musleabihf.tar.gz"
+[[GLEW]]
+arch = "aarch64"
+git-tree-sha1 = "ee8cc51e924297ea14546b399722880169d947fa"
+libc = "glibc"
+os = "linux"
+
+    [[GLEW.download]]
+    sha256 = "9bc40bc603eeb9fb58176255a6a2c100a4233c39cec934be875d3f6c06b17920"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.aarch64-linux-gnu.tar.gz"
+[[GLEW]]
+arch = "i686"
+git-tree-sha1 = "6e6a4295f6dfec18ea5835b22fa6845ee06fca0f"
+os = "windows"
+
+    [[GLEW.download]]
+    sha256 = "3e4627e65fd35aba77fddcffb348486fe35212d61b98f4aa469e2d47d447cc64"
+    url = "https://github.com/JuliaBinaryWrappers/GLEW_jll.jl/releases/download/GLEW-v2.1.0+1/GLEW.v2.1.0.i686-w64-mingw32.tar.gz"
